@@ -4,31 +4,40 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Privacy Policy — Valley of Plenty</title>
-  <meta name="description" content="How Valley of Plenty (Bereket Vadisi) handles your data." />
+  <meta name="description" content="How Valley of Plenty handles your data." />
   <meta name="theme-color" content="#2f7fb3" />
   <link rel="canonical" href="https://valley-of-plenty.com/privacy.html" />
-  <link rel="icon" href="assets/icon.png" />
+  <link rel="alternate" hreflang="tr" href="https://valley-of-plenty.com/tr/privacy.html" />
+  <link rel="alternate" hreflang="en" href="https://valley-of-plenty.com/privacy.html" />
+  <link rel="alternate" hreflang="el" href="https://valley-of-plenty.com/el/privacy.html" />
+  <link rel="alternate" hreflang="es" href="https://valley-of-plenty.com/es/privacy.html" />
+  <link rel="alternate" hreflang="pt-BR" href="https://valley-of-plenty.com/pt/privacy.html" />
+  <link rel="alternate" hreflang="fr" href="https://valley-of-plenty.com/fr/privacy.html" />
+  <link rel="alternate" hreflang="de" href="https://valley-of-plenty.com/de/privacy.html" />
+  <link rel="alternate" hreflang="ru" href="https://valley-of-plenty.com/ru/privacy.html" />
+  <link rel="alternate" hreflang="x-default" href="https://valley-of-plenty.com/privacy.html" />
+  <link rel="icon" href="/assets/icon.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="/styles.css" />
 </head>
 <body>
   <header class="top">
-    <a class="brand" href="./"><img src="assets/icon.png" alt="" />Valley of Plenty</a>
-    <nav><a href="./">Home</a></nav>
+    <a class="brand" href="/"><img src="/assets/icon.png" alt="" /><span>Valley of Plenty</span></a>
+    <nav><a href="/">Home</a><select class="lang" aria-label="Language" onchange="try{localStorage.setItem('site.lang',this.value)}catch(e){}location.href=this.selectedOptions[0].dataset.href"><option value="tr" data-href="/tr/privacy.html">Türkçe</option><option value="en" data-href="/privacy.html" selected>English</option><option value="el" data-href="/el/privacy.html">Ελληνικά</option><option value="es" data-href="/es/privacy.html">Español</option><option value="pt" data-href="/pt/privacy.html">Português (Brasil)</option><option value="fr" data-href="/fr/privacy.html">Français</option><option value="de" data-href="/de/privacy.html">Deutsch</option><option value="ru" data-href="/ru/privacy.html">Русский</option></select></nav>
   </header>
 
   <div class="doc-head">
     <div class="wrap">
       <h1>Privacy Policy</h1>
-      <p>Valley of Plenty (in Turkey: Bereket Vadisi) · Last updated: [date]</p>
+      <p>Last updated: [date]</p>
     </div>
   </div>
 
   <main class="doc">
     <!-- DRAFT: fill in the [brackets] and have a lawyer review before publishing (docs/gizlilik-politikasi.md). -->
-    <p>This policy explains what data the game collects, why, and what you can do about it. In short: we collect only what the game needs to work, we don't show ads, and we don't sell your data.</p>
+    <p>This policy explains what data the game collects, why, and what you can do about it. In short: we collect only what the game needs to work, we don’t show ads, and we don’t sell your data.</p>
 
     <h2>Who we are</h2>
     <p>The data controller is Elvoren OÜ, [registered address], Estonia (registry code [code]). Contact: <a href="mailto:developer@elvoren.ee">developer@elvoren.ee</a>.</p>
@@ -45,10 +54,10 @@
         <tr><td>Error reports (error message, app version, device type, browser details)</td><td>If the game runs into an error</td><td>To find and fix bugs</td></tr>
       </tbody>
     </table>
-    <p>We don't access your location, contacts, photos or microphone. We don't show ads or track you for advertising, and we don't sell your data.</p>
+    <p>We don’t access your location, contacts, photos or microphone. We don’t show ads or track you for advertising, and we don’t sell your data.</p>
 
     <h2>Notifications</h2>
-    <p>"Your crops are ready" reminders are scheduled locally on your phone. They are sent only if you allow them, and you can turn them off in the game under the Farmhouse.</p>
+    <p>“Your crops are ready” reminders are scheduled locally on your phone. They are sent only if you allow them, and you can turn them off in the game under the Farmhouse.</p>
 
     <h2>Where and how long we keep data</h2>
     <p>Data is stored with our hosting provider Supabase in the European Union (Frankfurt, Germany).</p>
@@ -63,16 +72,19 @@
     <p>Under the GDPR (and, for players in Turkey, the KVKK) you can also ask us for a copy of your data, to correct it, or object to how we use it. Write to <a href="mailto:developer@elvoren.ee">developer@elvoren.ee</a>. You also have the right to complain to your local data protection authority.</p>
 
     <h2>Children</h2>
-    <p>The game is not directed at children under [age, matching the store age rating], and we don't knowingly collect data from them.</p>
+    <p>The game is not directed at children under [age, matching the store age rating], and we don’t knowingly collect data from them.</p>
 
     <h2>Changes</h2>
-    <p>If we change this policy, we'll publish the new version on this page and announce important changes in the game.</p>
+    <p>If we change this policy, we’ll publish the new version on this page and announce important changes in the game.</p>
   </main>
 
   <footer>
     <div class="wrap">
-      <div>© 2026 Elvoren OÜ</div>
-      <nav><a href="./">Home</a><a href="mailto:developer@elvoren.ee">Contact</a></nav>
+      <div>© 2026 Elvoren OÜ. In Turkey the game is called <i>Bereket Vadisi</i>.</div>
+      <nav>
+        <a href="/privacy.html">Privacy policy</a>
+        <a href="mailto:developer@elvoren.ee">Contact</a>
+      </nav>
     </div>
   </footer>
 </body>

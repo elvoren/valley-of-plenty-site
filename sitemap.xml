@@ -1,5 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://valley-of-plenty.com/</loc></url>
-  <url><loc>https://valley-of-plenty.com/privacy.html</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://valley-of-plenty.com/tr/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://valley-of-plenty.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://valley-of-plenty.com/" />
+    <xhtml:link rel="alternate" hreflang="el" href="https://valley-of-plenty.com/el/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://valley-of-plenty.com/es/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://valley-of-plenty.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://valley-of-plenty.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valley-of-plenty.com/de/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://valley-of-plenty.com/ru/" />
+  </url>
+  <url><loc>https://valley-of-plenty.com/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://valley-of-plenty.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://valley-of-plenty.com/" />
+    <xhtml:link rel="alternate" hreflang="el" href="https://valley-of-plenty.com/el/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://valley-of-plenty.com/es/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://valley-of-plenty.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://valley-of-plenty.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valley-of-plenty.com/de/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://valley-of-plenty.com/ru/" />
+  </url>
+  <url><loc>https://valley-of-plenty.com/el/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://valley-of-plenty.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://valley-of-plenty.com/" />
+    <xhtml:link rel="alternate" hreflang="el" href="https://valley-of-plenty.com/el/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://valley-of-plenty.com/es/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://valley-of-plenty.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://valley-of-plenty.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valley-of-plenty.com/de/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://valley-of-plenty.com/ru/" />
+  </url>
+  <url><loc>https://valley-of-plenty.com/es/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://valley-of-plenty.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://valley-of-plenty.com/" />
+    <xhtml:link rel="alternate" hreflang="el" href="https://valley-of-plenty.com/el/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://valley-of-plenty.com/es/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://valley-of-plenty.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://valley-of-plenty.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valley-of-plenty.com/de/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://valley-of-plenty.com/ru/" />
+  </url>
+  <url><loc>https://valley-of-plenty.com/pt/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://valley-of-plenty.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://valley-of-plenty.com/" />
+    <xhtml:link rel="alternate" hreflang="el" href="https://valley-of-plenty.com/el/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://valley-of-plenty.com/es/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://valley-of-plenty.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://valley-of-plenty.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valley-of-plenty.com/de/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://valley-of-plenty.com/ru/" />
+  </url>
+  <url><loc>https://valley-of-plenty.com/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://valley-of-plenty.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://valley-of-plenty.com/" />
+    <xhtml:link rel="alternate" hreflang="el" href="https://valley-of-plenty.com/el/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://valley-of-plenty.com/es/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://valley-of-plenty.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://valley-of-plenty.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valley-of-plenty.com/de/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://valley-of-plenty.com/ru/" />
+  </url>
+  <url><loc>https://valley-of-plenty.com/de/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://valley-of-plenty.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://valley-of-plenty.com/" />
+    <xhtml:link rel="alternate" hreflang="el" href="https://valley-of-plenty.com/el/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://valley-of-plenty.com/es/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://valley-of-plenty.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://valley-of-plenty.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valley-of-plenty.com/de/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://valley-of-plenty.com/ru/" />
+  </url>
+  <url><loc>https://valley-of-plenty.com/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://valley-of-plenty.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://valley-of-plenty.com/" />
+    <xhtml:link rel="alternate" hreflang="el" href="https://valley-of-plenty.com/el/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://valley-of-plenty.com/es/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://valley-of-plenty.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://valley-of-plenty.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valley-of-plenty.com/de/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://valley-of-plenty.com/ru/" />
+  </url>
+  <url><loc>https://valley-of-plenty.com/tr/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://valley-of-plenty.com/tr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://valley-of-plenty.com/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="el" href="https://valley-of-plenty.com/el/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://valley-of-plenty.com/es/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://valley-of-plenty.com/pt/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://valley-of-plenty.com/fr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valley-of-plenty.com/de/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://valley-of-plenty.com/ru/privacy.html" />
+  </url>
+  <url><loc>https://valley-of-plenty.com/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://valley-of-plenty.com/tr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://valley-of-plenty.com/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="el" href="https://valley-of-plenty.com/el/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://valley-of-plenty.com/es/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://valley-of-plenty.com/pt/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://valley-of-plenty.com/fr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valley-of-plenty.com/de/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://valley-of-plenty.com/ru/privacy.html" />
+  </url>
+  <url><loc>https://valley-of-plenty.com/el/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://valley-of-plenty.com/tr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://valley-of-plenty.com/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="el" href="https://valley-of-plenty.com/el/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://valley-of-plenty.com/es/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://valley-of-plenty.com/pt/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://valley-of-plenty.com/fr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valley-of-plenty.com/de/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://valley-of-plenty.com/ru/privacy.html" />
+  </url>
+  <url><loc>https://valley-of-plenty.com/es/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://valley-of-plenty.com/tr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://valley-of-plenty.com/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="el" href="https://valley-of-plenty.com/el/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://valley-of-plenty.com/es/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://valley-of-plenty.com/pt/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://valley-of-plenty.com/fr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valley-of-plenty.com/de/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://valley-of-plenty.com/ru/privacy.html" />
+  </url>
+  <url><loc>https://valley-of-plenty.com/pt/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://valley-of-plenty.com/tr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://valley-of-plenty.com/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="el" href="https://valley-of-plenty.com/el/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://valley-of-plenty.com/es/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://valley-of-plenty.com/pt/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://valley-of-plenty.com/fr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valley-of-plenty.com/de/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://valley-of-plenty.com/ru/privacy.html" />
+  </url>
+  <url><loc>https://valley-of-plenty.com/fr/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://valley-of-plenty.com/tr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://valley-of-plenty.com/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="el" href="https://valley-of-plenty.com/el/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://valley-of-plenty.com/es/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://valley-of-plenty.com/pt/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://valley-of-plenty.com/fr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valley-of-plenty.com/de/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://valley-of-plenty.com/ru/privacy.html" />
+  </url>
+  <url><loc>https://valley-of-plenty.com/de/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://valley-of-plenty.com/tr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://valley-of-plenty.com/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="el" href="https://valley-of-plenty.com/el/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://valley-of-plenty.com/es/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://valley-of-plenty.com/pt/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://valley-of-plenty.com/fr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valley-of-plenty.com/de/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://valley-of-plenty.com/ru/privacy.html" />
+  </url>
+  <url><loc>https://valley-of-plenty.com/ru/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://valley-of-plenty.com/tr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://valley-of-plenty.com/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="el" href="https://valley-of-plenty.com/el/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://valley-of-plenty.com/es/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://valley-of-plenty.com/pt/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://valley-of-plenty.com/fr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valley-of-plenty.com/de/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://valley-of-plenty.com/ru/privacy.html" />
+  </url>
 </urlset>

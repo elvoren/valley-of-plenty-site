@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Gizlilik Politikası — Bereket Vadisi</title>
+  <meta name="description" content="Bereket Vadisi verilerini nasıl kullanıyor." />
+  <meta name="theme-color" content="#2f7fb3" />
+  <link rel="canonical" href="https://valley-of-plenty.com/tr/privacy.html" />
+  <link rel="alternate" hreflang="tr" href="https://valley-of-plenty.com/tr/privacy.html" />
+  <link rel="alternate" hreflang="en" href="https://valley-of-plenty.com/privacy.html" />
+  <link rel="alternate" hreflang="el" href="https://valley-of-plenty.com/el/privacy.html" />
+  <link rel="alternate" hreflang="es" href="https://valley-of-plenty.com/es/privacy.html" />
+  <link rel="alternate" hreflang="pt-BR" href="https://valley-of-plenty.com/pt/privacy.html" />
+  <link rel="alternate" hreflang="fr" href="https://valley-of-plenty.com/fr/privacy.html" />
+  <link rel="alternate" hreflang="de" href="https://valley-of-plenty.com/de/privacy.html" />
+  <link rel="alternate" hreflang="ru" href="https://valley-of-plenty.com/ru/privacy.html" />
+  <link rel="alternate" hreflang="x-default" href="https://valley-of-plenty.com/privacy.html" />
+  <link rel="icon" href="/assets/icon.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="/tr/"><img src="/assets/icon.png" alt="" /><span>Bereket Vadisi</span></a>
+    <nav><a href="/tr/">Ana sayfa</a><select class="lang" aria-label="Dil" onchange="try{localStorage.setItem('site.lang',this.value)}catch(e){}location.href=this.selectedOptions[0].dataset.href"><option value="tr" data-href="/tr/privacy.html" selected>Türkçe</option><option value="en" data-href="/privacy.html">English</option><option value="el" data-href="/el/privacy.html">Ελληνικά</option><option value="es" data-href="/es/privacy.html">Español</option><option value="pt" data-href="/pt/privacy.html">Português (Brasil)</option><option value="fr" data-href="/fr/privacy.html">Français</option><option value="de" data-href="/de/privacy.html">Deutsch</option><option value="ru" data-href="/ru/privacy.html">Русский</option></select></nav>
+  </header>
+
+  <div class="doc-head">
+    <div class="wrap">
+      <h1>Gizlilik Politikası</h1>
+      <p>Son güncelleme: [tarih]</p>
+    </div>
+  </div>
+
+  <main class="doc">
+    <!-- DRAFT: fill in the [brackets] and have a lawyer review before publishing (docs/gizlilik-politikasi.md). -->
+    <p>Bu politika oyunun hangi verileri neden topladığını ve bu konuda neler yapabileceğini anlatır. Kısacası: yalnızca oyunun çalışması için gerekenleri topluyoruz, reklam göstermiyoruz ve verilerini satmıyoruz.</p>
+
+    <h2>Biz kimiz</h2>
+    <p>Veri sorumlusu Elvoren OÜ, [adres], Estonya (sicil numarası [numara]). İletişim: <a href="mailto:developer@elvoren.ee">developer@elvoren.ee</a>.</p>
+
+    <h2>Hangi verileri topluyoruz</h2>
+    <table>
+      <thead><tr><th>Veri</th><th>Ne zaman</th><th>Neden</th></tr></thead>
+      <tbody>
+        <tr><td>Rastgele oyuncu kimliği (misafir hesap)</td><td>Oyunu ilk açtığında</td><td>Çiftliğini sunucuda saklamak</td></tr>
+        <tr><td>Oyun ilerlemesi (çiftlik, ürünler, altın, seviye, görevler)</td><td>Oynarken</td><td>Oyunu oynatmak, hileyi önlemek</td></tr>
+        <tr><td>Çiftlik adın ve seçtiğin profil resmi</td><td>Değiştirdiğinde</td><td>Komşularına ve kooperatif üyelerine göstermek</td></tr>
+        <tr><td>Komşuluk, kooperatif üyeliği, ziyaret ve beğeniler</td><td>Bu özellikleri kullandığında</td><td>Sosyal özellikleri çalıştırmak</td></tr>
+        <tr><td>Apple veya Google hesap kimliğin (ve sağlayıcının paylaştığı e-posta)</td><td>Yalnızca hesabını bağlarsan</td><td>Çiftliğini başka cihazlarda açabilmek</td></tr>
+        <tr><td>Hata raporları (hata mesajı, uygulama sürümü, cihaz türü, tarayıcı bilgisi)</td><td>Oyun bir hatayla karşılaşırsa</td><td>Hataları bulup düzeltmek</td></tr>
+      </tbody>
+    </table>
+    <p>Konumuna, rehberine, fotoğraflarına veya mikrofonuna erişmiyoruz. Reklam göstermiyoruz, seni reklam amacıyla takip etmiyoruz ve verilerini satmıyoruz.</p>
+
+    <h2>Bildirimler</h2>
+    <p>“Ürünlerin hazır” hatırlatmaları telefonunda yerel olarak kurulur. Yalnızca izin verirsen gönderilir; oyunda Çiftlik evi bölümünden kapatabilirsin.</p>
+
+    <h2>Veriler nerede ve ne kadar saklanır</h2>
+    <p>Veriler barındırma sağlayıcımız Supabase’de, Avrupa Birliği’nde (Frankfurt, Almanya) saklanır.</p>
+    <ul>
+      <li><b>Oyun verileri:</b> hesabın var olduğu sürece saklanır.</li>
+      <li><b>Hata raporları:</b> 30 gün sonra silinir.</li>
+      <li><b>Ziyaret kayıtları:</b> 30 gün sonra silinir.</li>
+    </ul>
+
+    <h2>Hakların ve hesabını silme</h2>
+    <p>Hesabını ve ona bağlı tüm verileri istediğin an oyundan kalıcı olarak silebilirsin: <b>Çiftlik evi → Gizlilik ve hesap → Hesabımı ve çiftliğimi sil</b>.</p>
+    <p>KVKK ve GDPR kapsamında verilerinin bir kopyasını isteyebilir, düzeltilmesini talep edebilir veya kullanımına itiraz edebilirsin. <a href="mailto:developer@elvoren.ee">developer@elvoren.ee</a> adresine yaz. Ayrıca veri koruma otoritesine şikâyette bulunma hakkın da var.</p>
+
+    <h2>Çocuklar</h2>
+    <p>Oyun [yaş sınırı, mağaza yaş derecelendirmesiyle uyumlu] yaşın altındaki çocuklara yönelik değildir ve bilerek bu yaştakilerden veri toplamayız.</p>
+
+    <h2>Değişiklikler</h2>
+    <p>Bu politikayı değiştirirsek güncel halini bu sayfada yayınlarız; önemli değişiklikleri oyun içinde de duyururuz.</p>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <div>© 2026 Elvoren OÜ. Oyunun uluslararası adı <i>Valley of Plenty</i>.</div>
+      <nav>
+        <a href="/tr/privacy.html">Gizlilik politikası</a>
+        <a href="mailto:developer@elvoren.ee">İletişim</a>
+      </nav>
+    </div>
+  </footer>
+</body>
+</html>

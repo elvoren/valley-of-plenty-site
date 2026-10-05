@@ -151,3 +151,20 @@ footer nav { display: flex; gap: 20px; flex-wrap: wrap; }
   section { padding: 64px 0; }
   .doc table { display: block; overflow-x: auto; }
 }
+
+/* Language menu in the header */
+.top nav { align-items: center; }
+.lang {
+  font: inherit; font-size: .9rem; font-weight: 700; color: #fff; cursor: pointer;
+  background: rgba(0,0,0,.35); border: 1px solid rgba(255,255,255,.45); border-radius: 999px;
+  padding: 6px 12px; -webkit-appearance: none; appearance: none;
+}
+.lang option { color: #3b2a1a; }
+
+/* Long game names and long words in some languages */
+.brand span { max-width: 18ch; line-height: 1.15; }
+h1, h2 { overflow-wrap: break-word; hyphens: auto; }
+@media (max-width: 600px) {
+  .brand span { display: none; }
+  .doc-head h1 { font-size: 1.9rem; }
+}
